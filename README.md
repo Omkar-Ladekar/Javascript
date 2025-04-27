@@ -1,1 +1,1 @@
-# Javascript
+Beginner project of Javascript
